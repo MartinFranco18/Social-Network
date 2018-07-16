@@ -21,3 +21,6 @@ https://www.youtube.com/watch?v=yD9-2zyQhdo
 
 Panatallas de Login
 https://www.youtube.com/watch?v=0hhLC2TFDRU
+
+Validacion de firebase con facebook
+https://www.youtube.com/watch?v=7Gh9kZaVo0g
