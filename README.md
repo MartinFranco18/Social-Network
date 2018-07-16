@@ -16,3 +16,5 @@ Emberjs utilizado para linkedin
 Enlaces de  Responsive Desing
 https://www.youtube.com/watch?v=HtWIrGqbEwI
 
+Secciones de Html
+https://www.youtube.com/watch?v=yD9-2zyQhdo
