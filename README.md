@@ -27,3 +27,6 @@ https://www.youtube.com/watch?v=7Gh9kZaVo0g
 
 Diseño de Muro
 https://www.youtube.com/watch?v=K9U3yioCn_s
+
+Uso de Storage
+https://www.youtube.com/watch?v=zt6iUTsjsJ0
