@@ -30,3 +30,6 @@ https://www.youtube.com/watch?v=K9U3yioCn_s
 
 Uso de Storage
 https://www.youtube.com/watch?v=zt6iUTsjsJ0
+
+Crear iconos de redes sociales
+https://www.youtube.com/watch?v=oRhU90wCghY
