@@ -33,3 +33,6 @@ https://www.youtube.com/watch?v=zt6iUTsjsJ0
 
 Crear iconos de redes sociales
 https://www.youtube.com/watch?v=oRhU90wCghY
+
+Registro de usuarios con email y contraseña
+https://www.youtube.com/watch?v=NVC_QhyXFns
